@@ -1,0 +1,64 @@
+{
+   "people": [
+       {
+           "id": 1,
+           "name": "Myk Dud",
+           "city": "Vyshneve",
+           "address": {
+               "street": "Chornovola",
+               "house": "33",
+               "apartment": "2B"
+           },
+           "contacts": {
+               "phone": "3804459873222",
+               "email": "myk_dud@ukr.com",
+               "skype": "myk_dud"
+           }
+       },
+       {
+           "id": 2,
+           "name": "Alex Dud",
+           "city": "Vyshneve",
+           "address": {
+               "street": "Priymachenco",
+               "house": "16",
+               "apartment": "18"
+           },
+           "contacts": {
+               "phone": "+380980001100",
+               "email": "alex_dud@ukr.com",
+               "skype": "alex_dud"
+           }
+       },
+       {
+           "id": 3,
+           "name": "Nat Dud",
+           "city": "Vyshneve",
+           "address": {
+               "street": "Pivdenna",
+               "house": "58",
+               "apartment": "13"
+           },
+           "contacts": {
+               "phone": "+380977775566",
+               "email": "nat_dud@ukr.com",
+               "skype": "nat_dud"
+           }
+       },
+       {
+           "id": 4,
+           "name": "Ya Dud",
+           "city": "Vyshneve",
+           "address": {
+               "street": "Osvity",
+               "house": "9",
+               "apartment": "1G"
+           },
+           "contacts": {
+               "phone": "+380635557788",
+               "email": "ya_dud@ukr.com",
+               "skype": "ya_dud"
+           }
+       }
+   ]
+}

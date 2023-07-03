@@ -1,0 +1,62 @@
+<people>
+ <person>
+   <id>1</id>
+   <name>Myk Dud</name>
+   <city>Vyshneve</city>
+   <address>
+     <street>Chornovola</street>
+     <house>33</house>
+     <apartment>2B</apartment>
+   </address>
+   <contacts>
+     <phone>+3804459873222</phone>
+     <email>myk_dud@ukr.com</email>
+     <skype>myk_dud</skype>
+   </contacts>
+ </person>
+ <person>
+   <id>2</id>
+   <name>Alex Dud</name>
+   <city>Vyshneve</city>
+   <address>
+     <street>Priymachenco</street>
+     <house>16</house>
+     <apartment>18</apartment>
+   </address>
+   <contacts>
+     <phone>+380980001100</phone>
+     <email>alex_dud@ukr.com</email>
+     <skype>alex_dud</skype>
+   </contacts>
+ </person>
+ <person>
+   <id>3</id>
+   <name>Nat Dud</name>
+   <city>Vyshneve</city>
+   <address>
+     <street>Pivdenna</street>
+     <house>58</house>
+     <apartment>13S</apartment>
+   </address>
+   <contacts>
+     <phone>+380977775566</phone>
+     <email>nat_dud@ukr.com</email>
+     <skype>nat_dud</skype>
+   </contacts>
+ </person>
+ <person>
+   <id>4</id>
+   <name>Ya Dud</name>
+   <city>Vyshneve</city>
+   <address>
+     <street>Osvity</street>
+     <house>9</house>
+     <apartment>1G</apartment>
+   </address>
+   <contacts>
+     <phone>+380635557788</phone>
+     <email>ya_dud@ukr.com</email>
+     <skype>ya_dud</skype>
+   </contacts>
+ </person>
+</people>
